@@ -30,7 +30,7 @@ function draw() {
       
       
       if(damage>10){
-        wall.shapeColor=color(225, 0, 0);
+        wall.shapeColor="red";
       }
   
       if(damage<10){
